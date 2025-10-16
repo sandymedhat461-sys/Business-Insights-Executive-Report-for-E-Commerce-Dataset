@@ -113,7 +113,7 @@ Total Orders = DISTINCTCOUNT('Orders'[order_id])
 Average Order Value = [Total Sales] / [Total Orders]
 Average Delivery Days = AVERAGE('Orders'[delivery_time_days_capped])
 
-📬 Contact
+## 📬 Contact
 
 Sandy Medhat Roshdy
 🎓 Business Information Systems Student – Helwan University
